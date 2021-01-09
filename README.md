@@ -1,2 +1,14 @@
-# pls do not download this u not a member of my gang
-# i repport u or i will ban u in my life ayieeeeeeee
+#Remember this is my own scripts
+
+#HUD
+start esx_active
+start esx_status
+start esx_strees
+start esx_yemeicme
+
+#POSTAL sa MAP
+start map
+
+#MORE
+start loadingscreen
+start No_Peds
