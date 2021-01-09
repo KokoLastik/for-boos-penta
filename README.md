@@ -1,21 +1,14 @@
-#Remember this is my own scripts
+#Remember this is my own scripts.
 
-#HUD
-
+#HUD.
 start esx_active
-
 start esx_status
-
 start esx_strees
-
 start esx_yemeicme
 
-#POSTAL sa MAP
-
+#POSTAL sa MAP.
 start map
 
-#MORE
-
+#MORE.
 start loadingscreen
-
 start No_Peds
